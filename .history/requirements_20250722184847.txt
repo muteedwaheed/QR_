@@ -1,0 +1,11 @@
+streamlit==1.47.0
+pyzbar==0.1.9
+numpy==1.26.4
+Pillow==10.4.0
+qrcode==7.4.2
+opencv-python-headless==4.10.0.84
+pytesseract==0.3.13
+qreader==3.16
+ultralytics==8.3.168
+torch==2.7.1
+torchvision==0.22.1
